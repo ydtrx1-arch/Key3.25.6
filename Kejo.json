@@ -40,3 +40,45 @@
     }
   ]
 }
+{
+  "AdminUrl": "https://wa.me/6285159382262",
+  "Marquee": "Message the admin to buy a VIP key. Only paid users allowed.",
+  "Users": [
+    {
+      "ID": "D599D5F202CECFC2",
+      "Expiry": "30/12/2026"
+    },
+    {
+      "ID": "D599D5F202C2",
+      "Expiry": "30/12/2026"
+    },
+    {
+      "ID": "D599D5F202C2",
+      "Expiry": "30/12/2026"
+    },
+    {
+      "ID": "D599D5F202C2",
+      "Expiry": "30/12/2026"
+    },
+    {
+      "ID": "D599D5F202C2",
+      "Expiry": "30/12/2026"
+    },
+    {
+      "ID": "D599D5F202C2",
+      "Expiry": "30/12/2026"
+    },
+    {
+      "ID": "D599D5F202C2",
+      "Expiry": "30/12/2026"
+    },
+    {
+      "ID": "D599D5F202C2",
+      "Expiry": "30/12/2026"
+    },
+    {
+      "ID": "FRIEND_DEVICE_ID_HERE",
+      "Expiry": "01/01/2025"
+    }
+  ]
+}
