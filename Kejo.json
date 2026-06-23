@@ -1,42 +1,42 @@
 {
-  "AdminUrl": "https://wa.me/6285159382262",
-  "Marquee": "Message the admin to buy a VIP key. Only paid users allowed.",
-  "Users": [
-    {
-      "ID": "D599D5F202CECFC2",
-      "Expiry": "30/12/2026"
+  "DPMods_Security": {
+    "App_Status": {
+      "Admin_URL": "https://t.me/dp_mods",
+      "Banned_Devices": "hacker_hwid_001,hacker_hwid_002",
+      "Dialog_Subtitle": "Secure authentication required.",
+      "Dialog_Title": "SYSTEM ACCESS",
+      "Maintenance": false,
+      "Update_Link": "https://t.me/dp_mods",
+      "Update_Required": false
     },
-    {
-      "ID": "D599D5F202C2",
-      "Expiry": "30/12/2026"
-    },
-    {
-      "ID": "D599D5F202C2",
-      "Expiry": "30/12/2026"
-    },
-    {
-      "ID": "D599D5F202C2",
-      "Expiry": "30/12/2026"
-    },
-    {
-      "ID": "D599D5F202C2",
-      "Expiry": "30/12/2026"
-    },
-    {
-      "ID": "D599D5F202C2",
-      "Expiry": "30/12/2026"
-    },
-    {
-      "ID": "D599D5F202C2",
-      "Expiry": "30/12/2026"
-    },
-    {
-      "ID": "D599D5F202C2",
-      "Expiry": "30/12/2026"
-    },
-    {
-      "ID": "FRIEND_DEVICE_ID_HERE",
-      "Expiry": "01/01/2025"
+    "Keys": {
+      "DP-ATUL-VIP": {
+        "Banned": false,
+        "DeviceLimit": 5,
+        "Devices": {
+          "dummy": 0
+        },
+        "ExpiryDate": "2099-12-31",
+        "Username": "DPMods"
+      },
+      "DP-BANNED-KEY": {
+        "Banned": true,
+        "DeviceLimit": 1,
+        "Devices": {
+          "dummy": 0
+        },
+        "ExpiryDate": "2026-12-31",
+        "Username": "Rule Breaker"
+      },
+      "DP-CLIENT-1": {
+        "Banned": false,
+        "DeviceLimit": 1,
+        "Devices": {
+          "dummy": 0
+        },
+        "ExpiryDate": "2026-07-15",
+        "Username": "Premium User"
+      }
     }
-  ]
+  }
 }
